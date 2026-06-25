@@ -28,6 +28,8 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,cpp,git,github,linux,vscode" /> </p>
 
+##  Connect With Me
+<p align="left">
 </td>
 
 </tr>
