@@ -30,6 +30,15 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 ##  Connect With Me
 <p align="left">
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
 </td>
 
 </tr>
@@ -45,15 +54,4 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact"/>
 </p>
 
-
-##  Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://github.com/Reetu-Dhakal">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-</p>
 
