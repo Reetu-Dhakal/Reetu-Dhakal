@@ -4,24 +4,16 @@
 
 Building web applications, exploring cybersecurity, and continuously learning modern technologies to create impactful digital solutions.
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Reetu-Dhakal" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact" />
-</p>
-
 ##  Languages & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,cpp,c,git,github,linux,vscode" />
+</p>
+
+##  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Reetu-Dhakal" height="170"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact" />
 </p>
 
 ##  Connect With Me
