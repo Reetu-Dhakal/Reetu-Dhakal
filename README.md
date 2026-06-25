@@ -26,3 +26,6 @@ Building web applications, exploring cybersecurity, and continuously learning mo
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Reetu-Dhakal&label=Profile+Views)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Reetu-Dhakal)](https://github.com/ryo-ma/github-profile-trophy)
