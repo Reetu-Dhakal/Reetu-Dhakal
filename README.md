@@ -14,11 +14,11 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 <td width="55%" valign="top">
 
 ## About Me
-* 🎓 Pursuing **BSc CSIT**
-* 💻 Passionate about **Web Development**
-* 🔐 Exploring **Cybersecurity & Secure Web Development**
-* 🌱 Improving **React, PHP & Security** skills
-* ⚡ Building practical projects and learning new technologies
+* Pursuing **BSc CSIT**
+* Passionate about **Web Development**
+* Exploring **Cybersecurity & Secure Web Development**
+* Improving **React, PHP & Security** skills
+* Building practical projects and learning new technologies
 
 </td>
 
