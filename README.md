@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Reetu Dhakal</h1>
+<h1>Hi, I'm Reetu Dhakal</h1>
 
-<h3 align="center">
+<h3>
 Full-Stack Web Developer | BSc CSIT Student
 </h3>
 
-<p align="center">
+<p>
 Building modern web applications, exploring cybersecurity, and continuously learning technologies that solve real-world problems.
 </p>
 
