@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi , I'm Reetu Dhakal
 
-<!--
-**Reetu-Dhakal/Reetu-Dhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Cybersecurity Enthusiast | BSc CSIT Student
 
-Here are some ideas to get you started:
+Building web applications, exploring cybersecurity, and continuously learning modern technologies to create impactful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,cpp,c,git,github,linux,vscode" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/Reetu-Dhakal" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
