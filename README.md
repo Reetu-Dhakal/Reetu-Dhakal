@@ -13,7 +13,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 <td width="55%" valign="top">
 
-## 👩‍💻 About Me
+## About Me
 * 🎓 Pursuing **BSc CSIT**
 * 💻 Passionate about **Web Development**
 * 🔐 Exploring **Cybersecurity & Secure Web Development**
@@ -37,7 +37,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Online Complaint Management System
 
@@ -51,7 +51,7 @@ Restaurant menu management system.
 
 C++ simulation project demonstrating OOP concepts.
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&rank_icon=github" height="170"/>
@@ -63,7 +63,7 @@ C++ simulation project demonstrating OOP concepts.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact"/>
 </p>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
