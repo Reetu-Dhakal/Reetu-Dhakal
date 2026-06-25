@@ -24,7 +24,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 <td width="45%" valign="top">
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,cpp,git,github,linux,vscode" /> </p>
 
@@ -55,4 +55,3 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 </a>
 </p>
 
-> *"Every project is an opportunity to learn, improve, and build something meaningful."*
