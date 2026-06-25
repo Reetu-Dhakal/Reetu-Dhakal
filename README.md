@@ -27,7 +27,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,cpp,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html, css, js, react,tailwind, php, mysql, python, git, github, linux, vscode" />
 </p>
 
 </td>
@@ -35,34 +35,18 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 </tr>
 </table>
 
-## Featured Projects
-
-### Online Complaint Management System
-
-Web-based complaint management platform using PHP and MySQL.
-
-### Hamro Menu
-
-Restaurant menu management system.
-
-### Flight Simulator
-
-C++ simulation project demonstrating OOP concepts.
-
 ##  GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&rank_icon=github" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Reetu-Dhakal" height="170"/>
-</p>
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact"/>
 </p>
 
-##  Connect With Me
 
+##  Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
