@@ -35,8 +35,6 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 </tr>
 </table>
 
----
-
 ## Featured Projects
 
 ### Online Complaint Management System
@@ -74,7 +72,5 @@ C++ simulation project demonstrating OOP concepts.
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
-
----
 
 > *"Every project is an opportunity to learn, improve, and build something meaningful."*
