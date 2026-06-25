@@ -26,9 +26,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html, css, js, react,tailwind, php, mysql, python, git, github, linux, vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c,cpp,git,github,linux,vscode" /> </p>
 
 </td>
 
