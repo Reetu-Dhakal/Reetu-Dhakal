@@ -37,6 +37,10 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 <a href="https://github.com/Reetu-Dhakal">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
+
+<a href="dhakalreetu05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 </td>
