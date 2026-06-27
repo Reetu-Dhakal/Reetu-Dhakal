@@ -1,4 +1,4 @@
-<h1>Hi, I'm Reetu Dhakal</h1>
+<h1>Hi, I'm Ritu Dhakal</h1>
 
 <h3>
 Full-Stack Web Developer | BSc CSIT Student
