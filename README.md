@@ -51,11 +51,9 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 ##  GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&rank_icon=github" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Reetu-Dhakal" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact"/>
 </p>
 
 
