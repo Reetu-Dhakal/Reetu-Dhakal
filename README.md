@@ -1,62 +1,54 @@
 <div align="center">
 
-# 👋 Hi, I'm Ritu Dhakal
-
-### 💻 Full-Stack Web Developer • 🎓 BSc CSIT Student • 🔐 Cybersecurity Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cybersecurity+Learner;Building+Real-World+Projects;React+•+PHP+•+MySQL;Always+Learning+🚀" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:A855F7,100:EC4899&text=Ritu%20Dhakal&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&label=Profile+Views&style=for-the-badge&color=8A2BE2"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&color=A855F7&lines=Building+software+that+solves+real-world+problems.;Full-Stack+Developer.;Cybersecurity+Learner.;Always+curious.+Always+building." />
 
-<img src="https://img.shields.io/github/followers/Reetu-Dhakal?style=for-the-badge&color=8A2BE2"/>
+<br>
 
-<img src="https://img.shields.io/github/stars/Reetu-Dhakal?style=for-the-badge&color=8A2BE2"/>
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://img.shields.io/github/followers/Reetu-Dhakal?style=for-the-badge&logo=github&color=7C3AED"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 👋 About
 
-```javascript
-const ritu = {
-    education: "BSc CSIT",
-    location: "Nepal 🇳🇵",
-    role: "Full-Stack Developer",
+I'm **Ritu**, a Computer Science student from **Nepal 🇳🇵** who enjoys designing and developing software that is simple, useful, and secure.
 
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Laravel",
-        "Cybersecurity",
-        "Cloud Security"
-    ],
+Rather than building projects just to complete assignments, I enjoy creating applications that solve practical problems and help me learn modern technologies through real experience.
 
-    interests: [
-        "Web Development",
-        "Secure Applications",
-        "UI/UX",
-        "Open Source"
-    ],
+My current focus is on **Full-Stack Development**, **Secure Web Applications**, and **Cybersecurity**.
 
-    goal: "Build software that solves real-world problems."
-}
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+# 🚀 Current Focus
+
+```text
+💻 Building scalable web applications
+
+🔒 Learning Cybersecurity
+
+⚛️ Mastering React Ecosystem
+
+🌐 Backend Development
+
+☁️ Cloud & Secure Architecture
 ```
 
 ---
 
-# 🚀 What I'm Working On
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-- 🍽️ HamroMenu – QR Restaurant Ordering System
-- 🛍️ Kala Bazaar Nepal – Multi Vendor Marketplace
-- 🔐 Learning Secure Web Development
-- 🌱 Improving React & Backend Development
-
----
-
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -66,7 +58,7 @@ const ritu = {
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
 
 ### Database
 
@@ -84,101 +76,125 @@ const ritu = {
 
 ---
 
-# 📊 GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-<div align="center">
+# ⭐ Featured Projects
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<table>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Reetu-Dhakal&theme=tokyonight&hide_border=true"/>
+<tr>
 
-</div>
+<td width="50%">
 
-<br>
+## 🍽 HamroMenu
 
-<div align="center">
+QR-based restaurant ordering platform.
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&theme=tokyonight&hide_border=true"/>
+**Highlights**
 
-</div>
+- Digital QR Menu
+- Order Management
+- Admin Dashboard
+- PHP + MySQL
 
----
+</td>
 
-# 🏆 GitHub Trophies
+<td width="50%">
 
-<div align="center">
+## 🛍 Kala Bazaar Nepal
 
-<img src="https://github-profile-trophy.vercel.app/?username=Reetu-Dhakal&theme=tokyonight&no-frame=true&column=4"/>
+Marketplace for Nepali artisans.
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Professional Full-Stack Developer
-- ✅ Master React & Node.js
-- ✅ Learn Advanced Cybersecurity
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Study Cloud Security
-
----
-
-# 📌 Featured Projects
-
-## 🍽️ HamroMenu
-
-QR-based Restaurant Ordering System
-
-**Tech Stack**
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 🛍️ Kala Bazaar Nepal
-
-Marketplace connecting Nepali artisans with customers.
-
-**Tech Stack**
+**Highlights**
 
 - React
 - Node.js
-- Express
 - MongoDB
-- JWT Authentication
+- Authentication
+- Multi Vendor
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📫 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Reetu-Dhakal&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Reetu-Dhakal&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎵 Currently Listening
+
+<div align="center">
+
+> *(Requires a GitHub Action + Spotify account)*
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Reetu-Dhakal/Reetu-Dhakal/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:dhakalreetu05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<a href="https://github.com/Reetu-Dhakal">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </div>
@@ -187,11 +203,8 @@ Marketplace connecting Nepali artisans with customers.
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
-
-*"Building today, improving tomorrow."*
-
-⭐ If you like my work, consider giving a star to my repositories!
+### 💜 *"Build with curiosity. Learn with consistency. Grow through every project."*
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:A855F7,100:EC4899"/>
