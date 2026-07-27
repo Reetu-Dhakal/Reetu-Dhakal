@@ -91,17 +91,9 @@ Marketplace for Nepali Artisans
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&theme=github_dark&hide_border=true&title_color=FB923C&icon_color=F97316"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Reetu-Dhakal&theme=github-dark-blue&hide_border=true&ring=F97316&fire=FB923C&currStreakLabel=FBBF24"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&theme=github_dark&hide_border=true&title_color=FB923C"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=react-dark&hide_border=true&color=F7931E&line=FF6B35&point=FFC93C"/>
 
 </div>
 
