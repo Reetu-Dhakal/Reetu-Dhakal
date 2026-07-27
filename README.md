@@ -22,7 +22,7 @@
 
 I'm a **BSc CSIT student** from **Nepal 🇳🇵** with a passion for creating modern web applications and learning how technology can solve real-world problems.
 
-I enjoy working across the full development process—from designing intuitive user interfaces to building reliable backends. Alongside web development, I'm exploring cybersecurity to better understand how to build software that is not only functional but also secure.
+I enjoy working across the full development process from designing intuitive user interfaces to building reliable backends. Alongside web development, I'm exploring cybersecurity to better understand how to build software that is not only functional but also secure.
 
 Outside of coding, I'm always learning, experimenting with new ideas, and challenging myself through practical projects.
 
