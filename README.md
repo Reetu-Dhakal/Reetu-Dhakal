@@ -26,13 +26,9 @@ Rather than building projects just to complete assignments, I enjoy creating app
 
 My current focus is on **Full-Stack Development**, **Secure Web Applications**, and **Cybersecurity**.
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 #  Current Focus
 
-```text
  Building scalable web applications
 
  Learning Cybersecurity
@@ -42,9 +38,7 @@ My current focus is on **Full-Stack Development**, **Secure Web Applications**, 
  Backend Development
 
  Cloud & Secure Architecture
-```
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
@@ -76,7 +70,6 @@ My current focus is on **Full-Stack Development**, **Secure Web Applications**, 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 #  Featured Projects
 
@@ -121,23 +114,6 @@ Marketplace for Nepali artisans.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-#  GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Reetu-Dhakal&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 #  Contribution Graph
 
@@ -147,39 +123,15 @@ Marketplace for Nepali artisans.
 
 </div>
 
----
-
-#  Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Reetu-Dhakal&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
-
----
 
 #  Currently Listening
 
 <div align="center">
 
-> *(Requires a GitHub Action + Spotify account)*
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ptydlnv4fzvx7nl2daoeh6dmty&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
 
 </div>
 
----
-
-#  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Reetu-Dhakal/Reetu-Dhakal/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 #  Let's Connect
 
