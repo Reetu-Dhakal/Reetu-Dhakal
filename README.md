@@ -124,13 +124,6 @@ Marketplace for Nepali artisans.
 </div>
 
 
-#  Currently Listening
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ptydlnv4fzvx7nl2daoeh6dmty&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
 
 
 #  Let's Connect
@@ -155,7 +148,6 @@ Marketplace for Nepali artisans.
 
 <div align="center">
 
-### 💜 *"Build with curiosity. Learn with consistency. Grow through every project."*
 
 </div>
 
