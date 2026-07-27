@@ -1,30 +1,30 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B35,50:F7931E,100:FFC93C&text=Ritu%20Dhakal&fontSize=55&fontColor=1a1a1a&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descColor=1a1a1a&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=250&color=0:FFD1A9,50:FFB6B9,100:FFF3B0&text=Ritu%20Dhakal&fontSize=52&fontColor=6B4226&fontAlignY=38&desc=full-stack%20dev%20%E2%9C%A8%20cybersecurity%20curious&descAlignY=58&descColor=6B4226&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&color=F7931E&lines=Building+software+that+solves+real-world+problems.;Full-Stack+Developer.;Always+curious.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=20&pause=1200&center=true&vCenter=true&width=650&color=E8846B&lines=building+cute+little+corners+of+the+internet+%F0%9F%8C%B8;full-stack+dev+%2B+cybersecurity+learner;always+curious%2C+always+building+%F0%9F%8D%92" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/Reetu-Dhakal">
-<img src="https://img.shields.io/github/followers/Reetu-Dhakal?style=for-the-badge&logo=github&color=F7931E&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/github/followers/Reetu-Dhakal?style=for-the-badge&logo=github&color=FFB6B9&labelColor=6B4226&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&style=for-the-badge&color=F7931E&labelColor=1a1a1a"/>
+<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&style=for-the-badge&color=FFD1A9&labelColor=6B4226"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6B35,100:FFC93C"/>
+<br>
 
-### About
+### About me
 
-CS student from **Nepal 🇳🇵** building software that's simple, useful, and secure — focused on **Full-Stack Development**, **Secure Web Apps**, and **Cybersecurity**. I'd rather build things that solve real problems than tick off assignments.
+hii, I'm **Ritu** — a CS student from **Nepal 🇳🇵** who loves building software that's simple, useful, and a little bit cozy. I'd rather make something that solves a real problem than just check a box.
 
-**Currently:** scaling up React apps · learning cybersecurity · exploring cloud & backend architecture
+**right now I'm into:** ✨ growing my React skills · 🔐 learning cybersecurity · ☁️ poking around cloud & backend stuff
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6B35,100:FFC93C"/>
+<br>
 
-### Tech Stack
+###  My toolbox
 
 <div align="center">
 
@@ -32,45 +32,51 @@ CS student from **Nepal 🇳🇵** building software that's simple, useful, and 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6B35,100:FFC93C"/>
+<br>
 
-### 🚀 Featured Projects
+### Things I've made
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**HamroMenu**
-QR-based restaurant ordering platform
-`PHP` `MySQL` — Digital menu, order management, admin dashboard
+**🍜 HamroMenu**
+a QR menu + ordering app for small restaurants
+`PHP` `MySQL` · digital menu, order tracking, admin dashboard
 
 </td>
 <td width="50%" valign="top">
 
-**Kala Bazaar Nepal**
-Multi-vendor marketplace for Nepali artisans
-`React` `Node.js` `MongoDB` — Auth, multi-vendor support
+**🧵 Kala Bazaar Nepal**
+a marketplace for Nepali artisans to shine online
+`React` `Node.js` `MongoDB` · auth, multi-vendor support
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF6B35,100:FFC93C"/>
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=react-dark&hide_border=true&color=F7931E&line=FF6B35&point=FFC93C"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=chartreuse-dark&hide_border=true&color=E8846B&line=FFB6B9&point=FFD1A9&bg_color=00000000"/>
 
 </div>
 
-### 📫 Let's Connect
+<br>
+
+### Say hi
 
 <div align="center">
 
-<a href="mailto:dhakalreetu05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-<a href="https://www.linkedin.com/in/ritu-dhakal-563669300"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://github.com/Reetu-Dhakal"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="mailto:dhakalreetu05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+<a href="https://github.com/Reetu-Dhakal"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF6B35,50:F7931E,100:FFC93C"/>
+<br>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&color=0:FFD1A9,50:FFB6B9,100:FFF3B0"/>
+</div>
