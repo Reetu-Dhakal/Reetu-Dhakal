@@ -18,30 +18,22 @@
 
 ---
 
-# 👩‍💻 /whoami
+## Hello, I'm Ritu
 
-```bash
-$ whoami
+I'm a **BSc CSIT student** from **Nepal 🇳🇵** with a passion for creating modern web applications and learning how technology can solve real-world problems.
 
-Name        :: Ritu Dhakal
-Location    :: Nepal 🇳🇵
-Education   :: BSc CSIT
-Role        :: Full-Stack Developer
-Learning    :: Cybersecurity & Cloud
-Focus       :: Building secure and scalable web applications
-```
+I enjoy working across the full development process—from designing intuitive user interfaces to building reliable backends. Alongside web development, I'm exploring cybersecurity to better understand how to build software that is not only functional but also secure.
 
----
+Outside of coding, I'm always learning, experimenting with new ideas, and challenging myself through practical projects.
 
-## 🚀 Current Focus
 
-- 🍽️ Building **HamroMenu**
-- 🛍️ Developing **Kala Bazaar Nepal**
-- 🔐 Learning Secure Web Development
-- ☁️ Exploring Cloud Technologies
-- ⚡ Improving React & Backend Development
+## 🚀 What Drives Me
 
----
+- 💻 Building software that creates real impact
+- 🔍 Writing clean, maintainable, and secure code
+- 🌱 Learning something new every day
+- 🤝 Collaborating and sharing knowledge
+- 🚀 Growing as a full-stack developer
 
 ## ⚡ Tech Stack
 
@@ -115,25 +107,6 @@ Marketplace for Nepali Artisans
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reetu-Dhakal&theme=github-dark&hide_border=true&color=FB923C&line=F97316&point=FBBF24"/>
-
-</div>
-
----
-
-## 🎵 Currently Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ptydlnv4fzvx7nl2daoeh6dmty&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -157,7 +130,7 @@ Marketplace for Nepali Artisans
 
 <div align="center">
 
-### 🌅 *"Every project starts with curiosity and ends with growth."*
+### *"Every project starts with curiosity and ends with growth."*
 
 <br>
 
