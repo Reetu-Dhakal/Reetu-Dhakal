@@ -39,7 +39,7 @@ Building modern web applications, exploring cybersecurity, and continuously lear
 </a>
 
 <a href="dhakalreetu05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
 
