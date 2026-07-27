@@ -18,7 +18,7 @@
 
 ---
 
-# 👋 About
+#  About
 
 I'm **Ritu**, a Computer Science student from **Nepal 🇳🇵** who enjoys designing and developing software that is simple, useful, and secure.
 
@@ -30,25 +30,25 @@ My current focus is on **Full-Stack Development**, **Secure Web Applications**, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 🚀 Current Focus
+#  Current Focus
 
 ```text
-💻 Building scalable web applications
+ Building scalable web applications
 
-🔒 Learning Cybersecurity
+ Learning Cybersecurity
 
-⚛️ Mastering React Ecosystem
+ Mastering React Ecosystem
 
-🌐 Backend Development
+ Backend Development
 
-☁️ Cloud & Secure Architecture
+ Cloud & Secure Architecture
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ My current focus is on **Full-Stack Development**, **Secure Web Applications**, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# ⭐ Featured Projects
+#  Featured Projects
 
 <table>
 
@@ -86,7 +86,7 @@ My current focus is on **Full-Stack Development**, **Secure Web Applications**, 
 
 <td width="50%">
 
-## 🍽 HamroMenu
+##  HamroMenu
 
 QR-based restaurant ordering platform.
 
@@ -101,7 +101,7 @@ QR-based restaurant ordering platform.
 
 <td width="50%">
 
-## 🛍 Kala Bazaar Nepal
+##  Kala Bazaar Nepal
 
 Marketplace for Nepali artisans.
 
@@ -123,7 +123,7 @@ Marketplace for Nepali artisans.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# 📈 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Marketplace for Nepali artisans.
 
 ---
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Marketplace for Nepali artisans.
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Marketplace for Nepali artisans.
 
 ---
 
-# 🎵 Currently Listening
+#  Currently Listening
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Marketplace for Nepali artisans.
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Marketplace for Nepali artisans.
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
