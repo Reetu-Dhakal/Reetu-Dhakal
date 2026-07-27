@@ -21,19 +21,17 @@
 ## Hello, I'm Ritu
 
 I'm a **BSc CSIT student** from **Nepal 🇳🇵** with a passion for creating modern web applications and learning how technology can solve real-world problems.
-
 I enjoy working across the full development process from designing intuitive user interfaces to building reliable backends. Alongside web development, I'm exploring cybersecurity to better understand how to build software that is not only functional but also secure.
-
 Outside of coding, I'm always learning, experimenting with new ideas, and challenging myself through practical projects.
 
 
 ## 🚀 What Drives Me
 
-- 💻 Building software that creates real impact
-- 🔍 Writing clean, maintainable, and secure code
-- 🌱 Learning something new every day
-- 🤝 Collaborating and sharing knowledge
-- 🚀 Growing as a full-stack developer
+-  Building software that creates real impact
+-  Writing clean, maintainable, and secure code
+-  Learning something new every day
+-  Collaborating and sharing knowledge
+-  Growing as a full-stack developer
 
 ## ⚡ Tech Stack
 
@@ -52,7 +50,7 @@ Outside of coding, I'm always learning, experimenting with new ideas, and challe
 
 <td width="50%" valign="top">
 
-### 🍽️ HamroMenu
+###  HamroMenu
 
 Modern QR Restaurant Ordering System
 
@@ -70,7 +68,7 @@ Modern QR Restaurant Ordering System
 
 <td width="50%" valign="top">
 
-### 🛍️ Kala Bazaar Nepal
+###  Kala Bazaar Nepal
 
 Marketplace for Nepali Artisans
 
@@ -100,7 +98,7 @@ Marketplace for Nepali Artisans
 ---
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
