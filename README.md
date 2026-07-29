@@ -2,15 +2,15 @@
 
 **Full-Stack Developer** • **Cybersecurity Enthusiast** • 🇳🇵 Nepal
 
-I'm a BSc CSIT student passionate about building modern web applications that solve real-world problems. I enjoy working across the full development lifecycle—from designing intuitive user interfaces to developing secure and scalable backend systems. Alongside software development, I'm continuously learning cybersecurity and cloud technologies.
+I'm a BSc CSIT student passionate about building modern web applications that solve real-world problems. I enjoy working across the full development lifecycle from designing intuitive user interfaces to developing secure and scalable backend systems. Alongside software development, I'm continuously learning cybersecurity and cloud technologies.
 
 
 ## 🚀 Current Focus
 
-- 🍽️ Building **HamroMenu** – QR Restaurant Ordering System
-- 🛍️ Developing **Kala Bazaar Nepal** – Multi-Vendor Marketplace
-- 🔐 Learning Cybersecurity & Cloud
-- 💡 Improving problem-solving and software engineering skills
+-  Building **HamroMenu** – QR Restaurant Ordering System
+-  Developing **Kala Bazaar Nepal** – Multi-Vendor Marketplace
+-  Learning Cybersecurity & Cloud
+-  Improving problem-solving and software engineering skills
 
 
 ## 💻 Tech Stack
@@ -49,9 +49,8 @@ A multi-vendor marketplace connecting Nepali artisans with customers through a m
 
 **Tech:** React • Node.js • Express • MongoDB
 
----
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:dhakalreetu05@gmail.com">
