@@ -1,4 +1,4 @@
-# Hi, I'm Ritu Dhakal 👋
+# Hi, I'm Ritu Dhakal 
 
 **Full-Stack Developer** • **Cybersecurity Enthusiast** • 🇳🇵 Nepal
 
@@ -36,39 +36,34 @@ I'm a BSc CSIT student passionate about building modern web applications that so
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
 ## 📌 Featured Projects
 
-### 🍽️ HamroMenu
+###  HamroMenu
 A QR-based restaurant ordering system that allows customers to browse menus and place orders without waiting for staff.
 
 **Tech:** PHP • MySQL • JavaScript
 
----
-
-### 🛍️ Kala Bazaar Nepal
+###  Kala Bazaar Nepal
 A multi-vendor marketplace connecting Nepali artisans with customers through a modern e-commerce platform.
 
 **Tech:** React • Node.js • Express • MongoDB
 
----
+## 📫 Connect With Me
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&theme=transparent&hide_border=true"/>
+<p align="left">
+  <a href="mailto:dhakalreetu05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Reetu-Dhakal">
+    <img src="https://skillicons.dev/icons?i=github" width="28" />
+  </a>
 </p>
-
----
-
-## 📫 Connect
-
-- 📧 dhakalreetu05@gmail.com
-- 💼 www.linkedin.com/in/ritu-dhakal-563669300
-- 🌐 github.com/Reetu-Dhakal
-
 ---
 
 > *"Building solutions, learning continuously, and growing through every project."*
