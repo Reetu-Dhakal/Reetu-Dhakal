@@ -7,10 +7,10 @@ I'm a BSc CSIT student passionate about building modern web applications that so
 
 ## 🚀 Current Focus
 
--  Building **HamroMenu** – QR Restaurant Ordering System
--  Developing **Kala Bazaar Nepal** – Multi-Vendor Marketplace
--  Learning Cybersecurity & Cloud
--  Improving problem-solving and software engineering skills
+- Building practical full-stack web applications
+- Learning Cybersecurity and Cloud Computing
+- Improving software architecture and system design
+- Exploring scalable and secure development practices
 
 
 ## 💻 Tech Stack
