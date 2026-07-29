@@ -4,7 +4,6 @@
 
 I'm a BSc CSIT student passionate about building modern web applications that solve real-world problems. I enjoy working across the full development lifecycle—from designing intuitive user interfaces to developing secure and scalable backend systems. Alongside software development, I'm continuously learning cybersecurity and cloud technologies.
 
----
 
 ## 🚀 Current Focus
 
@@ -13,7 +12,6 @@ I'm a BSc CSIT student passionate about building modern web applications that so
 - 🔐 Learning Cybersecurity & Cloud
 - 💡 Improving problem-solving and software engineering skills
 
----
 
 ## 💻 Tech Stack
 
@@ -44,10 +42,14 @@ A QR-based restaurant ordering system that allows customers to browse menus and 
 
 **Tech:** PHP • MySQL • JavaScript
 
+---
+
 ###  Kala Bazaar Nepal
 A multi-vendor marketplace connecting Nepali artisans with customers through a modern e-commerce platform.
 
 **Tech:** React • Node.js • Express • MongoDB
+
+---
 
 ## 📫 Connect With Me
 
