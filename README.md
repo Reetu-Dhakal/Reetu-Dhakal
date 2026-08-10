@@ -1,81 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=210&section=header&text=RITU%20DHAKAL&fontSize=44&fontColor=F5C453&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=15&descColor=D4AF37" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAD3,50:F6D9B0,100:FBEAD3&height=190&section=header&text=Ritu%20Dhakal&fontSize=42&fontColor=6B4226&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Networking%20Curious&descAlignY=58&descSize=15&descColor=8A5A3B" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F5C453&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+applications;Exploring+cybersecurity+and+cloud+computing;Kathmandu%2C+Nepal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C97B3D&center=true&vCenter=true&width=520&lines=building+practical+things+for+the+web;MERN+stack+%2B+a+lot+of+curiosity;learning+how+networks+connect+everything;Kathmandu%2C+Nepal" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C453,100:D4AF37&height=3" width="100%" />
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+### about me
+
+BSc CSIT student who enjoys building practical web applications and learning how the systems behind them work. I like turning ideas into projects, exploring new technologies, and improving with every build.
 
 <br>
 
-## About
+### currently exploring
 
-BSc CSIT student focused on building modern, secure full-stack web applications. Experienced across the full development lifecycle from interface design to scalable backend architecture with an ongoing focus on cybersecurity and cloud infrastructure.
+**Full-Stack Development**  
+Building applications with the MERN stack.
+
+**Networking**  
+Understanding how systems communicate and connect.
+
+**Cloud & Infrastructure**  
+Learning how applications run beyond the local environment.
+
+**System Design**  
+Exploring how reliable applications are structured.
+
+**UI & UX**  
+Keeping things simple, useful, and visually clean.
+
+</td>
+
+<td width="45%" valign="top">
+
+### tech i reach for
+
+**languages**
+
+<img src="https://img.shields.io/badge/HTML5-FBEAD3?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-FBEAD3?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-FBEAD3?style=flat-square&logo=javascript&logoColor=D4A017" />
+<img src="https://img.shields.io/badge/PHP-FBEAD3?style=flat-square&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Python-FBEAD3?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C++-FBEAD3?style=flat-square&logo=cplusplus&logoColor=00599C" />
 
 <br>
 
-## Focus Areas
+**frameworks & tools**
 
-- Building production-grade full-stack applications with the MERN stack
-- Studying cybersecurity fundamentals and cloud computing
-- Refining software architecture and system design practices
-- Applying secure, scalable development patterns
+<img src="https://img.shields.io/badge/React-FBEAD3?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-FBEAD3?style=flat-square&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-FBEAD3?style=flat-square&logo=express&logoColor=6B4226" />
+<img src="https://img.shields.io/badge/Laravel-FBEAD3?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/Tailwind-FBEAD3?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 
 <br>
 
-## Tech Stack
+<img src="https://img.shields.io/badge/MongoDB-FBEAD3?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-FBEAD3?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-FBEAD3?style=flat-square&logo=git&logoColor=F05032" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-**Languages**
-
-<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-
-**Frameworks &amp; Tools**
-
-<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Laravel-0d0d0d?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032" />
+### things i've built
 
 </div>
 
-<br>
-
-## Featured Projects
-
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-**HamroMenu**
+### HamroMenu
 
-QR-based restaurant ordering and management system with real-time order tracking.
+**QR Restaurant Ordering System**
+
+A practical restaurant ordering platform focused on QR-based menus, digital ordering, and order management.
 
 `React` `Express` `MongoDB`
 
 </td>
+
 <td width="50%" valign="top">
 
-**Kala Bazaar Nepal**
+### Kala Bazaar Nepal
 
-Multi-vendor marketplace connecting Nepali artisans with customers through e-commerce.
+**Multi-Vendor Marketplace**
+
+A marketplace concept connecting customers with Nepali artisans and handmade products.
 
 `React` `Node.js` `Express` `MongoDB`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center">
+
+### keeping the streak alive
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=FBEAD3&border=F6D9B0&stroke=6B4226&ring=C97B3D&fire=C97B3D&currStreakLabel=6B4226&sideLabels=8A5A3B&dates=8A5A3B&currStreakNum=6B4226&sideNums=6B4226" alt="GitHub Streak" width="75%" />
 
 </td>
 </tr>
@@ -83,34 +126,26 @@ Multi-vendor marketplace connecting Nepali artisans with customers through e-com
 
 <br>
 
-## GitHub Streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=0d0d0d&border=1a1a1a&stroke=D4AF37&ring=F5C453&fire=F5C453&currStreakLabel=F5C453&sideLabels=D4C9B0&dates=8a7a5c&currStreakNum=F5F0E6&sideNums=F5F0E6" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:F5C453&height=3" width="100%" />
-
-<br>
-
-## Contact
-
 <div align="center">
 
-<a href="mailto:dhakalreetu05@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://www.linkedin.com/in/ritu-dhakal-563669300"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
-<a href="https://github.com/Reetu-Dhakal"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+### say hi
+
+<a href="mailto:dhakalreetu05@gmail.com">
+<img src="https://img.shields.io/badge/Email-FBEAD3?style=for-the-badge&logo=gmail&logoColor=C97B3D" />
+</a>
+
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
+<img src="https://img.shields.io/badge/LinkedIn-FBEAD3?style=for-the-badge&logo=linkedin&logoColor=C97B3D" />
+</a>
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://img.shields.io/badge/GitHub-FBEAD3?style=for-the-badge&logo=github&logoColor=C97B3D" />
+</a>
+
+<br><br>
+
+<em>building slow, learning always, growing through every project.</em>
 
 </div>
 
-<br>
-
-<div align="center">
-<em>Building solutions, learning continuously, and growing through every project.</em>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAD3,50:F6D9B0,100:FBEAD3&height=90&section=footer" width="100%" />
