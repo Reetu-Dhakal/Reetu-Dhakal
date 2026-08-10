@@ -14,7 +14,7 @@
 
 ## About
 
-BSc CSIT student focused on building modern, secure full-stack web applications. Experienced across the full development lifecycle — from interface design to scalable backend architecture — with an ongoing focus on cybersecurity and cloud infrastructure.
+BSc CSIT student focused on building modern, secure full-stack web applications. Experienced across the full development lifecycle from interface design to scalable backend architecture with an ongoing focus on cybersecurity and cloud infrastructure.
 
 <br>
 
