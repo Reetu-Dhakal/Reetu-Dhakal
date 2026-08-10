@@ -1,71 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAD3,50:F6D9B0,100:FBEAD3&height=190&section=header&text=Ritu%20Dhakal&fontSize=42&fontColor=6B4226&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Networking%20Curious&descAlignY=58&descSize=15&descColor=8A5A3B" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4B183,50:E58A4F,100:11161C&height=220&section=header&text=Ritu%20Dhakal&fontSize=48&fontColor=F7E8D5&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Networking%20Curious&descAlignY=58&descSize=16&descColor=E8A16B" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C97B3D&center=true&vCenter=true&width=540&lines=building+things+that+start+as+ideas;MERN+stack+%2B+a+lot+of+curiosity;learning+how+systems+connect;Kathmandu%2C+Nepal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E8A16B&center=true&vCenter=true&width=600&lines=building+practical+things+for+the+web;MERN+stack+%2B+a+lot+of+curiosity;learning+how+systems+connect;exploring+cloud+and+networking;Kathmandu%2C+Nepal" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://img.shields.io/badge/GitHub-Reetu--Dhakal-171C22?style=for-the-badge&logo=github&logoColor=E8A16B" />
+</a>
+
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-171C22?style=for-the-badge&logo=linkedin&logoColor=E8A16B" />
+</a>
+
+<a href="mailto:dhakalreetu05@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-171C22?style=for-the-badge&logo=gmail&logoColor=E8A16B" />
+</a>
 
 </div>
 
 <br>
 
+<!-- ABOUT + TECH STACK -->
+
 <table width="100%">
 <tr>
 
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-### a little about me
+##  about me
 
-BSc CSIT student who enjoys turning ideas into working projects. I'm interested in how applications are built, how systems communicate, and how thoughtful design can make technology easier to use.
+I'm a **BSc CSIT student** who enjoys turning ideas into practical applications and learning what happens behind the interface.
+
+I like exploring different parts of technology — from building full-stack applications to understanding how systems communicate and how applications are deployed.
 
 <br>
 
-### these days, i'm exploring
+### currently exploring
 
-**01 · Full-Stack Development**  
-Building practical applications with the MERN stack.
+<table>
+<tr>
+<td width="60">
 
-**02 · Networking**  
+### 01
+
+</td>
+<td>
+
+**Full-Stack Development**
+
+Building practical applications with the **MERN stack**.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 02
+
+</td>
+<td>
+
+**Networking**
+
 Learning how devices, systems, and networks communicate.
 
-**03 · Cloud & Infrastructure**  
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 03
+
+</td>
+<td>
+
+**Cloud & Infrastructure**
+
 Understanding how applications move from development to deployment.
 
-**04 · System Design**  
-Learning how different parts of an application work together.
+</td>
+</tr>
 
-**05 · UI & UX**  
-Making interfaces simple, clean, and enjoyable to use.
+<tr>
+<td>
+
+### 04
+
+</td>
+<td>
+
+**System Design**
+
+Learning how different components work together to create reliable systems.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 05
+
+</td>
+<td>
+
+**UI & UX**
+
+Creating interfaces that are simple, useful, and visually clean.
+
+</td>
+</tr>
+</table>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-### tech i reach for
+## 🛠️ tech i reach for
 
-**languages**
+### languages
 
-<img src="https://img.shields.io/badge/HTML5-FBEAD3?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-FBEAD3?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-FBEAD3?style=flat-square&logo=javascript&logoColor=D4A017" />
-<img src="https://img.shields.io/badge/PHP-FBEAD3?style=flat-square&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Python-FBEAD3?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C++-FBEAD3?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/HTML5-1B2027?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1B2027?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
 <br>
 
-**frameworks & tools**
-
-<img src="https://img.shields.io/badge/React-FBEAD3?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-FBEAD3?style=flat-square&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-FBEAD3?style=flat-square&logo=express&logoColor=6B4226" />
-<img src="https://img.shields.io/badge/Laravel-FBEAD3?style=flat-square&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Tailwind-FBEAD3?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/JavaScript-1B2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-1B2027?style=for-the-badge&logo=php&logoColor=777BB4" />
 
 <br>
 
-<img src="https://img.shields.io/badge/MongoDB-FBEAD3?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-FBEAD3?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Git-FBEAD3?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Python-1B2027?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C++-1B2027?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+
+<br><br>
+
+### frameworks & tools
+
+<img src="https://img.shields.io/badge/React-1B2027?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-1B2027?style=for-the-badge&logo=node.js&logoColor=68A063" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Express-1B2027?style=for-the-badge&logo=express&logoColor=F7E8D5" />
+<img src="https://img.shields.io/badge/Laravel-1B2027?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Tailwind-1B2027?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+
+<br><br>
+
+### databases & workflow
+
+<img src="https://img.shields.io/badge/MongoDB-1B2027?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-1B2027?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-1B2027?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </td>
 
@@ -74,9 +171,15 @@ Making interfaces simple, clean, and enjoyable to use.
 
 <br>
 
+<!-- PROJECTS -->
+
 <div align="center">
 
-### things i've been building
+## 🚀 things i've built
+
+<p>
+A few projects where I've been putting my ideas into practice.
+</p>
 
 </div>
 
@@ -87,35 +190,59 @@ Making interfaces simple, clean, and enjoyable to use.
 
 <div align="center">
 
-**🍽️ HamroMenu**
+### 🍽️ HamroMenu
 
-*QR Restaurant Ordering System*
+**QR Restaurant Ordering System**
 
 </div>
 
-A digital restaurant ordering platform built around QR-based menus, table ordering, and order management.
+A digital restaurant ordering platform designed around **QR-based menus, table ordering, and order management**.
 
 <br>
+
+**Stack**
 
 `React` `Express` `MongoDB`
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://img.shields.io/badge/View%20Project-1B2027?style=for-the-badge&logo=github&logoColor=E8A16B" />
+</a>
+
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-**🧶 Kala Bazaar Nepal**
+### 🧶 Kala Bazaar Nepal
 
-*Multi-Vendor Marketplace*
+**Multi-Vendor Marketplace**
 
 </div>
 
-A marketplace concept connecting customers with Nepali artisans and handmade products.
+A marketplace concept connecting customers with **Nepali artisans and handmade products**.
 
 <br>
 
+**Stack**
+
 `React` `Node.js` `Express` `MongoDB`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Reetu-Dhakal">
+<img src="https://img.shields.io/badge/View%20Project-1B2027?style=for-the-badge&logo=github&logoColor=E8A16B" />
+</a>
+
+</div>
 
 </td>
 
@@ -124,13 +251,27 @@ A marketplace concept connecting customers with Nepali artisans and handmade pro
 
 <br>
 
+<!-- LEARNING DIRECTION -->
+
 <div align="center">
 
-### learning by building
+## 🌐 learning by building
 
 <br>
 
-`web` &nbsp; → &nbsp; `systems` &nbsp; → &nbsp; `networking` &nbsp; → &nbsp; `cloud`
+<img src="https://img.shields.io/badge/WEB-1B2027?style=for-the-badge&logo=react&logoColor=E8A16B" />
+
+&nbsp; → &nbsp;
+
+<img src="https://img.shields.io/badge/SYSTEMS-1B2027?style=for-the-badge&logo=serverfault&logoColor=E8A16B" />
+
+&nbsp; → &nbsp;
+
+<img src="https://img.shields.io/badge/NETWORKING-1B2027?style=for-the-badge&logo=cisco&logoColor=E8A16B" />
+
+&nbsp; → &nbsp;
+
+<img src="https://img.shields.io/badge/CLOUD-1B2027?style=for-the-badge&logo=icloud&logoColor=E8A16B" />
 
 <br><br>
 
@@ -140,40 +281,52 @@ A marketplace concept connecting customers with Nepali artisans and handmade pro
 
 <br>
 
+<!-- GITHUB -->
+
 <table width="100%">
 <tr>
+
 <td width="100%" align="center">
 
-### little green squares
+##  keeping the streak alive
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=FBEAD3&border=F6D9B0&stroke=6B4226&ring=C97B3D&fire=C97B3D&currStreakLabel=6B4226&sideLabels=8A5A3B&dates=8A5A3B&currStreakNum=6B4226&sideNums=6B4226" alt="GitHub Streak" width="75%" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=11161C&border=343B44&stroke=343B44&ring=E58A4F&fire=E58A4F&currStreakLabel=E8A16B&sideLabels=F7E8D5&dates=9AA4AE&currStreakNum=F7E8D5&sideNums=F7E8D5" width="80%" />
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
+<!-- CONTACT -->
+
 <div align="center">
 
-### let's connect
+## ✦ let's connect
+
+<br>
 
 <a href="mailto:dhakalreetu05@gmail.com">
-<img src="https://img.shields.io/badge/Email-FBEAD3?style=for-the-badge&logo=gmail&logoColor=C97B3D" />
+<img src="https://img.shields.io/badge/EMAIL-1B2027?style=for-the-badge&logo=gmail&logoColor=E8A16B" />
 </a>
 
 <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
-<img src="https://img.shields.io/badge/LinkedIn-FBEAD3?style=for-the-badge&logo=linkedin&logoColor=C97B3D" />
+<img src="https://img.shields.io/badge/LINKEDIN-1B2027?style=for-the-badge&logo=linkedin&logoColor=E8A16B" />
 </a>
 
 <a href="https://github.com/Reetu-Dhakal">
-<img src="https://img.shields.io/badge/GitHub-FBEAD3?style=for-the-badge&logo=github&logoColor=C97B3D" />
+<img src="https://img.shields.io/badge/GITHUB-1B2027?style=for-the-badge&logo=github&logoColor=E8A16B" />
 </a>
 
 <br><br>
 
-<em>building slow, learning always, growing through every project.</em>
+**building slow, learning always, growing through every project.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAD3,50:F6D9B0,100:FBEAD3&height=90&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11161C,50:3A3028,100:E8A16B&height=100&section=footer" width="100%" />
