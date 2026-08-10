@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEAD3,50:F6D9B0,100:FBEAD3&height=190&section=header&text=Ritu%20Dhakal&fontSize=42&fontColor=6B4226&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Networking%20Curious&descAlignY=58&descSize=15&descColor=8A5A3B" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C97B3D&center=true&vCenter=true&width=520&lines=building+practical+things+for+the+web;MERN+stack+%2B+a+lot+of+curiosity;learning+how+networks+connect+everything;Kathmandu%2C+Nepal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C97B3D&center=true&vCenter=true&width=540&lines=building+things+that+start+as+ideas;MERN+stack+%2B+a+lot+of+curiosity;learning+how+systems+connect;Kathmandu%2C+Nepal" alt="Typing SVG" />
 
 </div>
 
@@ -13,28 +13,28 @@
 
 <td width="55%" valign="top">
 
-### about me
+### a little about me
 
-BSc CSIT student who enjoys building practical web applications and learning how the systems behind them work. I like turning ideas into projects, exploring new technologies, and improving with every build.
+BSc CSIT student who enjoys turning ideas into working projects. I'm interested in how applications are built, how systems communicate, and how thoughtful design can make technology easier to use.
 
 <br>
 
-### currently exploring
+### these days, i'm exploring
 
-**Full-Stack Development**  
-Building applications with the MERN stack.
+**01 · Full-Stack Development**  
+Building practical applications with the MERN stack.
 
-**Networking**  
-Understanding how systems communicate and connect.
+**02 · Networking**  
+Learning how devices, systems, and networks communicate.
 
-**Cloud & Infrastructure**  
-Learning how applications run beyond the local environment.
+**03 · Cloud & Infrastructure**  
+Understanding how applications move from development to deployment.
 
-**System Design**  
-Exploring how reliable applications are structured.
+**04 · System Design**  
+Learning how different parts of an application work together.
 
-**UI & UX**  
-Keeping things simple, useful, and visually clean.
+**05 · UI & UX**  
+Making interfaces simple, clean, and enjoyable to use.
 
 </td>
 
@@ -76,7 +76,7 @@ Keeping things simple, useful, and visually clean.
 
 <div align="center">
 
-### things i've built
+### things i've been building
 
 </div>
 
@@ -85,11 +85,17 @@ Keeping things simple, useful, and visually clean.
 
 <td width="50%" valign="top">
 
-### HamroMenu
+<div align="center">
 
-**QR Restaurant Ordering System**
+**🍽️ HamroMenu**
 
-A practical restaurant ordering platform focused on QR-based menus, digital ordering, and order management.
+*QR Restaurant Ordering System*
+
+</div>
+
+A digital restaurant ordering platform built around QR-based menus, table ordering, and order management.
+
+<br>
 
 `React` `Express` `MongoDB`
 
@@ -97,11 +103,17 @@ A practical restaurant ordering platform focused on QR-based menus, digital orde
 
 <td width="50%" valign="top">
 
-### Kala Bazaar Nepal
+<div align="center">
 
-**Multi-Vendor Marketplace**
+**🧶 Kala Bazaar Nepal**
+
+*Multi-Vendor Marketplace*
+
+</div>
 
 A marketplace concept connecting customers with Nepali artisans and handmade products.
+
+<br>
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -112,11 +124,27 @@ A marketplace concept connecting customers with Nepali artisans and handmade pro
 
 <br>
 
+<div align="center">
+
+### learning by building
+
+<br>
+
+`web` &nbsp; → &nbsp; `systems` &nbsp; → &nbsp; `networking` &nbsp; → &nbsp; `cloud`
+
+<br><br>
+
+<em>curious about how things work behind the screen.</em>
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
 <td width="100%" align="center">
 
-### keeping the streak alive
+### little green squares
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=FBEAD3&border=F6D9B0&stroke=6B4226&ring=C97B3D&fire=C97B3D&currStreakLabel=6B4226&sideLabels=8A5A3B&dates=8A5A3B&currStreakNum=6B4226&sideNums=6B4226" alt="GitHub Streak" width="75%" />
 
@@ -128,7 +156,7 @@ A marketplace concept connecting customers with Nepali artisans and handmade pro
 
 <div align="center">
 
-### say hi
+### let's connect
 
 <a href="mailto:dhakalreetu05@gmail.com">
 <img src="https://img.shields.io/badge/Email-FBEAD3?style=for-the-badge&logo=gmail&logoColor=C97B3D" />
