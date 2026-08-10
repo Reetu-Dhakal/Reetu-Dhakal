@@ -1,79 +1,110 @@
-<h1 align="center">Hey, I'm Ritu 👋🌸</h1>
-<p align="center">
-Full-Stack Dev • Cybersecurity Curious • 🇳🇵 Based in Kathmandu
-</p>
+<div align="center">
 
-<p align="center">
-I build cozy, functional web apps — from pixel-pushing on the frontend to keeping things secure on the backend. Currently a BSc CSIT student, always tinkering with something new. 🌷
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RITU%20DHAKAL&fontSize=46&fontColor=E8E6F5&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=16&descColor=B8B4D8" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B8B4D8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+applications;Exploring+cybersecurity+and+cloud+computing;Kathmandu%2C+Nepal" alt="Typing SVG" />
 
-## 🌼 what i'm up to
-- 🧵 Weaving together full-stack projects with React + Node
-- 🔐 Leveling up in cybersecurity & cloud
-- 🌱 Sharpening how I design and architect systems
-- ✨ Always chasing cleaner, more secure code
+</div>
 
 <br>
 
-## 🧸 my toolkit
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header" width="100%" />
 
-**languages**
-<p>
-<img src="https://img.shields.io/badge/HTML-FFB4A2?style=for-the-badge&logo=html5&logoColor=5c3a3a" />
-<img src="https://img.shields.io/badge/CSS-B5D5C5?style=for-the-badge&logo=css3&logoColor=2f4739" />
-<img src="https://img.shields.io/badge/JavaScript-FFE5A0?style=for-the-badge&logo=javascript&logoColor=5c4a17" />
-<img src="https://img.shields.io/badge/PHP-D8C4E9?style=for-the-badge&logo=php&logoColor=4a2f5c" />
-<img src="https://img.shields.io/badge/Python-A8CFE0?style=for-the-badge&logo=python&logoColor=1f3b47" />
-<img src="https://img.shields.io/badge/C-E8D5C4?style=for-the-badge&logo=c&logoColor=5c4632" />
-<img src="https://img.shields.io/badge/C++-C9DCEC?style=for-the-badge&logo=cplusplus&logoColor=2f4a63" />
-</p>
+## About
 
-**frameworks & friends**
-<p>
-<img src="https://img.shields.io/badge/React-A8D8D0?style=for-the-badge&logo=react&logoColor=1f4a44" />
-<img src="https://img.shields.io/badge/Node.js-C3E4B5?style=for-the-badge&logo=node.js&logoColor=2f4a1f" />
-<img src="https://img.shields.io/badge/Express-E0D5C7?style=for-the-badge&logo=express&logoColor=3a2f24" />
-<img src="https://img.shields.io/badge/Laravel-F4C9C9?style=for-the-badge&logo=laravel&logoColor=5c1f1f" />
-<img src="https://img.shields.io/badge/TailwindCSS-BEE3E8?style=for-the-badge&logo=tailwindcss&logoColor=1f4a4f" />
-<img src="https://img.shields.io/badge/MySQL-C9D9EC?style=for-the-badge&logo=mysql&logoColor=1f2f5c" />
-<img src="https://img.shields.io/badge/MongoDB-C6E8C6?style=for-the-badge&logo=mongodb&logoColor=1f4a1f" />
-<img src="https://img.shields.io/badge/Git-F0C9C0?style=for-the-badge&logo=git&logoColor=5c2f1f" />
-</p>
+BSc CSIT student focused on building modern, secure full-stack web applications. Experienced across the full development lifecycle — from interface design to scalable backend architecture — with an ongoing focus on cybersecurity and cloud infrastructure.
 
 <br>
 
-## 🎀 things i've made
+## Focus Areas
 
-**🍽️ HamroMenu**
-QR-based restaurant ordering & management system — browse, order, no waiting around.
+- Building production-grade full-stack applications with the MERN stack
+- Studying cybersecurity fundamentals and cloud computing
+- Refining software architecture and system design practices
+- Applying secure, scalable development patterns
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+
+**Frameworks &amp; Tools**
+
+<img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0f0c29?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Laravel-0f0c29?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/TailwindCSS-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032" />
+
+</div>
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**HamroMenu**
+
+QR-based restaurant ordering and management system with real-time order tracking.
+
 `React` `Express` `MongoDB`
 
-**🧶 Kala Bazaar Nepal**
-A cozy multi-vendor marketplace connecting Nepali artisans with customers online.
+</td>
+<td width="50%" valign="top">
+
+**Kala Bazaar Nepal**
+
+Multi-vendor marketplace connecting Nepali artisans with customers through e-commerce.
+
 `React` `Node.js` `Express` `MongoDB`
 
-<br>
-
-## 🔥 my streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=default&background=FFF8F0&border=F4C9C9&stroke=5c3a3a&ring=F4C9C9&fire=F4A8A8&currStreakLabel=5c3a3a&sideLabels=5c3a3a&dates=8a7a70&currStreakNum=5c3a3a&sideNums=5c3a3a" alt="GitHub Streak" />
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 🌷 say hi
+## GitHub Streak
 
-<p>
-<a href="mailto:dhakalreetu05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ritu-dhakal-563669300"><img src="https://skillicons.dev/icons?i=linkedin" width="32" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Reetu-Dhakal"><img src="https://skillicons.dev/icons?i=github" width="32" /></a>
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=dark&background=0f0c29&border=302b63&stroke=B8B4D8&ring=8A7FD6&fire=8A7FD6&currStreakLabel=B8B4D8&sideLabels=B8B4D8&dates=6a6690&currStreakNum=E8E6F5&sideNums=E8E6F5" alt="GitHub Streak" />
+</div>
 
 <br>
 
-<p align="center">
-<em>"Building solutions, learning continuously, and growing through every project." 🌱</em>
-</p>
+## Contact
+
+<div align="center">
+
+<a href="mailto:dhakalreetu05@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/ritu-dhakal-563669300"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/Reetu-Dhakal"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<em>Building solutions, learning continuously, and growing through every project.</em>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
