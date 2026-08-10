@@ -83,17 +83,6 @@ Multi-vendor marketplace connecting Nepali artisans with customers through e-com
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Reetu-Dhakal&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=F5C453&text_color=D4C9B0&icon_color=D4AF37&ring_color=F5C453" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetu-Dhakal&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=F5C453&text_color=D4C9B0&langs_count=8" width="38%" />
-
-</div>
-
-<br>
-
 ## GitHub Streak
 
 <div align="center">
