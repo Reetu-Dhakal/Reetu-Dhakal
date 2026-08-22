@@ -128,7 +128,7 @@ A marketplace concept designed to connect customers with Nepali artisans and han
 
 <br><br>
 
-<a href="https://github.com/Reetu-Dhakal">
+<a href="https://github.com/Reetu-Dhakal/KalaBazzar">
 <img src="https://img.shields.io/badge/View%20Project-1B2027?style=flat-square&logo=github&logoColor=E8A16B" />
 </a>
 
