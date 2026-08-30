@@ -99,7 +99,7 @@ BSc CSIT student focused on building practical web applications and understandin
 <td width="50%" valign="top">
 
 **🍽️ HamroMenu** 
-<img src="https://postimg.cc/MXRygHjp" width="100%" />
+<img src="https://i.postimg.cc/zD20bRzK/image-2026-08-30-083023745.png" width="100%" />
 *QR Restaurant Ordering System*
 
 A digital restaurant ordering system built around QR menus, table ordering, and order management.
@@ -119,7 +119,7 @@ A digital restaurant ordering system built around QR menus, table ordering, and 
 <td width="50%" valign="top">
 
 **🧶 कला Bazaar Nepal** 
-<img src="https://postimg.cc/MXRygHjp" width="100%" />
+<img src="https://i.postimg.cc/zD20bRzK/image-2026-08-30-083023745.png" width="100%" />
 *Multi-Vendor Marketplace*
 
 A marketplace concept designed to connect customers with Nepali artisans and handmade products.
