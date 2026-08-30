@@ -1,70 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8EEE6,50:E9D3C2,100:C98B68&height=155&section=header&text=Ritu%20Dhakal&fontSize=40&fontColor=49352B&fontAlignY=38&animation=fadeIn&desc=full-stack%20developer%20%7C%20building%20%26%20learning&descAlignY=60&descSize=13&descColor=765646" width="100%" />
+<h2>Ritu Dhakal</h2>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=9B654C&center=true&vCenter=true&width=560&lines=building+useful+things+for+the+web;learning+how+systems+connect;MERN+%2B+curiosity;turning+ideas+into+working+projects" alt="Typing SVG" />
+<sub>full-stack developer · BSc CSIT · Kathmandu, Nepal</sub>
 
 <br><br>
 
 <a href="https://github.com/Reetu-Dhakal">
-<img src="https://img.shields.io/badge/GitHub-49352B?style=flat-square&logo=github&logoColor=F8EEE6" />
+<img src="https://img.shields.io/badge/github-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
 </a>
-
- 
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ritu-dhakal-563669300">
-<img src="https://img.shields.io/badge/LinkedIn-49352B?style=flat-square&logo=linkedin&logoColor=F8EEE6" />
+<img src="https://img.shields.io/badge/linkedin-4B3A32?style=flat-square&logo=linkedin&logoColor=F8EEE6" />
 </a>
-
- 
-
+&nbsp;
 <a href="mailto:dhakalreetu05@gmail.com">
-<img src="https://img.shields.io/badge/Email-49352B?style=flat-square&logo=gmail&logoColor=F8EEE6" />
+<img src="https://img.shields.io/badge/email-4B3A32?style=flat-square&logo=gmail&logoColor=F8EEE6" />
 </a>
+
+<br>
+
+<sub>building useful things for the web · learning how systems connect</sub>
 
 </div>
 
 <br>
 
-<!-- ABOUT + STACK -->
-
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-## About
+### about
 
-I'm a **BSc CSIT student and full-stack developer** who learns by building.
+I'm a **BSc CSIT student and full-stack developer** who learns mostly by building.
 
-I enjoy turning ideas into working applications and understanding what happens behind the interface.
+I like turning ideas into working applications and understanding what happens behind the interface.
 
 Currently exploring **full-stack development, networking, cloud infrastructure, system design and UI/UX.**
 
 <br>
 
-> `learn → build → break → fix → repeat`
+<sub>learn → build → break → fix → repeat</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-## Tech Stack
+### stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,cpp,laravel,tailwind,git,github&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,cpp,laravel,tailwind,git,github&perline=6" width="85%" />
 
 <br><br>
 
-`HTML` · `CSS` · `JavaScript`
-`React` · `Node.js` · `Express`
-`MongoDB` · `MySQL`
-`PHP` · `Python` · `C++`
-`Laravel` · `Tailwind CSS`
-`Git` · `GitHub`
+<sub>
+HTML · CSS · JavaScript · React · Node.js · Express
+<br>
+MongoDB · MySQL · PHP · Python · C++
+<br>
+Laravel · Tailwind · Git
+</sub>
 
 </div>
 
@@ -75,77 +72,61 @@ Currently exploring **full-stack development, networking, cloud infrastructure, 
 
 <br>
 
-<!-- PROJECTS -->
-
-<div align="center">
-
-## Selected Projects
-
-</div>
-
-<br>
+### projects
 
 <table width="100%">
 <tr>
-
-<!-- PROJECT 1 -->
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-### HamroMenu
-
-<img src="https://i.postimg.cc/J7QRFzsW/image-2026-08-30-190112578.png" width="92%" />
+<img src="https://i.postimg.cc/J7QRFzsW/image-2026-08-30-190112578.png" width="94%" />
 
 <br>
 
-**QR Restaurant Ordering System**
-
-A digital restaurant ordering platform connecting QR menus, tables, customers and restaurant order management.
+<strong>HamroMenu</strong>
 
 <br>
 
-<img src="https://img.shields.io/badge/React-49352B?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Express-49352B?style=flat-square&logo=express&logoColor=F8EEE6" />
-<img src="https://img.shields.io/badge/MongoDB-49352B?style=flat-square&logo=mongodb&logoColor=47A248" />
+<sub>QR restaurant ordering platform</sub>
+
+<br><br>
+
+<sub>React · Express · MongoDB</sub>
 
 <br><br>
 
 <a href="https://github.com/Reetu-Dhakal/_HamroMenu">
-<img src="https://img.shields.io/badge/View%20Repository-C98B68?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/repository-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
 </a>
 
 </div>
 
 </td>
 
-<!-- PROJECT 2 -->
-
 <td width="50%" valign="top">
 
 <div align="center">
 
-### Kala Bazaar Nepal
-
-<img src="https://i.postimg.cc/zD20bRzK/image-2026-08-30-083023745.png" width="92%" />
+<img src="https://i.postimg.cc/zD20bRzK/image-2026-08-30-083023745.png" width="94%" />
 
 <br>
 
-**Nepali Artisan Marketplace**
-
-A marketplace concept connecting customers with local Nepali artisans and handmade products.
+<strong>Kala Bazaar Nepal</strong>
 
 <br>
 
-<img src="https://img.shields.io/badge/React-49352B?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-49352B?style=flat-square&logo=node.js&logoColor=68A063" />
-<img src="https://img.shields.io/badge/MongoDB-49352B?style=flat-square&logo=mongodb&logoColor=47A248" />
+<sub>marketplace for Nepali artisans</sub>
+
+<br><br>
+
+<sub>React · Node.js · Express · MongoDB</sub>
 
 <br><br>
 
 <a href="https://github.com/Reetu-Dhakal/KalaBazzar">
-<img src="https://img.shields.io/badge/View%20Repository-C98B68?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/repository-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
 </a>
 
 </div>
@@ -156,45 +137,46 @@ A marketplace concept connecting customers with local Nepali artisans and handma
 </table>
 
 <br>
-
-<!-- CURRENTLY -->
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## Currently
+### currently
 
-**Building**
+<sub>
 
-Web applications and project ideas that solve practical problems.
+**building**  
+web applications and practical project ideas
 
-**Learning**
+<br>
 
-Networking, cloud infrastructure and better system architecture.
+**learning**  
+networking · cloud · system architecture
 
-**Improving**
+<br>
 
-Problem-solving, backend development and writing cleaner code.
+**improving**  
+backend development · problem solving · clean code
+
+</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-## A small note
+### little note
 
-I like understanding things by actually making them.
+<sub>
 
-Some projects start polished.
+Most of what I know comes from making things,
+breaking them, fixing them and trying again.
 
-Most start with:
+I prefer understanding **why** something works
+rather than simply making it work.
 
-```text
-"what if I tried this?"
-```
-
-Then come the bugs, debugging, refactoring and eventually something that works.
+</sub>
 
 </td>
 
@@ -203,23 +185,15 @@ Then come the bugs, debugging, refactoring and eventually something that works.
 
 <br>
 
-<!-- STREAK -->
-
 <div align="center">
 
-## GitHub Streak
+### streak
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=default&background=FBF5F0&border=E5D3C4&stroke=E5D3C4&ring=C98B68&fire=C98B68&currStreakLabel=795442&sideLabels=624B40&dates=9A8175&currStreakNum=624B40&sideNums=624B40" width="62%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetu-Dhakal&theme=default&background=FBF6F1&border=E5DCD5&stroke=E5DCD5&ring=C98B68&fire=C98B68&currStreakLabel=795442&sideLabels=624B40&dates=9A8175&currStreakNum=624B40&sideNums=624B40" width="55%" />
 
 <br><br>
 
-`building · learning · experimenting`
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&label=profile%20visitors&color=C98B68&style=flat-square" />
+<sub>building · learning · experimenting</sub>
 
 </div>
 
@@ -227,6 +201,6 @@ Then come the bugs, debugging, refactoring and eventually something that works.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C98B68,50:E9D3C2,100:F8EEE6&height=85&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=Reetu-Dhakal&label=visitors&color=C98B68&style=flat-square" />
 
 </div>
