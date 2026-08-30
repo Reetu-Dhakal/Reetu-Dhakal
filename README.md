@@ -1,6 +1,7 @@
 <div align="center">
 <h2>Ritu Dhakal</h2>
 <sub>full-stack developer · BSc CSIT · Kathmandu, Nepal</sub>
+<br>
 <a href="https://github.com/Reetu-Dhakal">
 <img src="https://img.shields.io/badge/GitHub-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
 </a>
@@ -39,10 +40,8 @@ networking, cloud infrastructure, system design
 and UI/UX.</strong>
 </p>
 
-<br>
-
 <code>learn → build → break → fix → repeat</code>
-
+<br>
 </td>
 
 <td width="48%" valign="top">
@@ -52,9 +51,6 @@ and UI/UX.</strong>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,cpp,laravel,tailwind,git,github&perline=5" width="70%" />
-
-<br><br>
-
 
 </div>
 
@@ -86,9 +82,9 @@ and UI/UX.</strong>
 
 <h3>HamroMenu</h3>
 <br> 
-<img src="https://i.postimg.cc/J7QRFzsW/image-2026-08-30-190112578.png" width="94%" />
-<sub>QR restaurant ordering platform</sub>
-<code>React</code> <code>Express</code> <code>MongoDB</code>
+<img src="https://i.postimg.cc/J7QRFzsW/image-2026-08-30-190112578.png" width="94%" /><br>
+<sub>QR restaurant ordering platform</sub> <br>
+<code>React</code> <code>Express</code> <code>MongoDB</code><br>
 <a href="https://github.com/Reetu-Dhakal/_HamroMenu">
 <img src="https://img.shields.io/badge/view%20repository-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
 </a>
@@ -107,7 +103,7 @@ and UI/UX.</strong>
 <br>
 <img src="https://i.postimg.cc/zD20bRzK/image-2026-08-30-083023745.png" width="94%" />
 
-<sub>Marketplace for Nepali artisans</sub>
+<sub>Marketplace for Nepali artisans</sub> <br>
 <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
 <a href="https://github.com/Reetu-Dhakal/KalaBazzar">
 <img src="https://img.shields.io/badge/view%20repository-4B3A32?style=flat-square&logo=github&logoColor=F8EEE6" />
